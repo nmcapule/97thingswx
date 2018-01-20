@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "97 Things Every Programmer Should Know",
+  "version": "0.1",
+  "description": "Makes all new tabs have a snippet of 97things.",
+  "icons": {
+    "48": "icons/beasts-48.png"
+  },
+  "chrome_url_overrides" : {
+    "newtab": "newtab.html"
+  }
+}
